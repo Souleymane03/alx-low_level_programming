@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
   *helperFunction - returns 0 or 1.
   *@num: number being checked.
